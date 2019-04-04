@@ -10,7 +10,7 @@ from .bicycling import *  # noqa
 from .transit import *  # noqa
 from .traffic import *  # noqa
 from .drawing import *  # noqa
-
+from .dash_drawing import *  # noqa
 
 def _jupyter_nbextension_paths():
     return [{
