@@ -686,7 +686,6 @@ class Drawing(GMapsWidgetMixin, widgets.Widget):
                 for callback in self._new_feature_callbacks:
                     callback(feature)
     def _on_delete_features(self,model_id):
-        #print("call delete function")
         if self._delete_features_callbacks:
             for feature in self.features:
                 if feature.model_id == model_id:
