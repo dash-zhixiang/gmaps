@@ -1,6 +1,6 @@
 Refer：`gmaps-jupyter`__
 
-.. __: https://github.com/pbugnion/gmaps
+https://github.com/pbugnion/gmaps
 
 ## Install
 
