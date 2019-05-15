@@ -1,4 +1,4 @@
-Refer：`gmaps-jupyter`__。
+Refer：`gmaps-jupyter`__
 
 .. __: https://github.com/pbugnion/gmaps
 
